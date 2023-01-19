@@ -27,6 +27,7 @@ To check the local website just drag the "BuildServer.html" file to a tab of you
 - Really understand Git and how to automate so you can include the C build script with it and tie in commits / Git repository to HTML website
 - Finish integrating the Linode server I have running with this project so it doesn't become a local project but one you can SSH and do remotely
 - Cron table  another script to periodically fetch new commits through Git and use the build script on them
+- Maybe add SQL so the build page data can be organized and pruned after X entries or after 3 days
 ##
 
 ## License
