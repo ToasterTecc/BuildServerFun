@@ -28,6 +28,7 @@ To check the local website just drag the "BuildServer.html" file to a tab of you
 - Finish integrating the Linode server I have running with this project so it doesn't become a local project but one you can SSH and do remotely
 - Cron table  another script to periodically fetch new commits through Git and use the build script on them
 - Maybe add SQL so the build page data can be organized and pruned after X entries or after 3 days
+- Memory file check so you can add entries to the memory file for it to preload, then make it erase and reorganize itself for invalid build entries.
 ##
 
 ## Pictures of the bash script being tested
