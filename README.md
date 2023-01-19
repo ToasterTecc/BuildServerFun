@@ -1,7 +1,7 @@
 # BuildServerFun
 ![alt text](https://imgur.com/3HOJXqz.png)
-A local build server with a bash script for C projects
-I had a week to do this, given time restrictions and my lack of full knowledge automating Git, I could not do the cron table script to do periodic builds. I also couldn't fully set up the build server remotely via ssh.
+A local build server with a bash script for C projects. <br />
+I had a week to do this, given time restrictions and my lack of full knowledge automating Git, I could not do the cron table script to do periodic builds. I also couldn't fully set up the build server so it can be accessed remotely via SSH.
 
 But here are cool things it could do!
 ## Build Server 0.1 Features
