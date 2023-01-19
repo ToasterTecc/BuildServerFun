@@ -32,7 +32,7 @@ To check the local website just drag the "BuildServer.html" file to a tab of you
 ##
 
 ## Pictures of the bash script being tested
-![alt text](https://imgur.com/6gKxRONl.png)
+![alt text](https://imgur.com/CSrmNpT.png)
 ![alt text](https://imgur.com/ecAUQFC.png)
 ![alt text](https://imgur.com/z5M3Wzr.png)
 
