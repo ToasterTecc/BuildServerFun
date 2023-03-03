@@ -1,4 +1,5 @@
 # BuildServerFun
+**To the company that made me do this in a week FOR FREE without giving me ANY FEEDBACK (HRL Laboratories) and wanted the repo private, Γαμώ το σπίτι σου**
 ![alt text](https://imgur.com/3HOJXqz.png)
 A local build server with a bash script for C projects. <br />
 I had a week to do this, given time restrictions and my lack of full knowledge automating Git, I could not do the cron table script to do periodic builds and set up repo/commit integration. I also couldn't fully set up the build server so it can be accessed remotely via SSH.
